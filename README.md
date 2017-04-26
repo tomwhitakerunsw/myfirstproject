@@ -1,2 +1,2 @@
 # myfirstproject
-description
+First description for GitHub 
